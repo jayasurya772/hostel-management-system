@@ -1,0 +1,6 @@
+{
+  "name": "SMART HOSTEL - Hostel Management & Automation System",
+  "description": "Comprehensive centralized hostel management and automation system for students, wardens, administrators, and staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
